@@ -2,6 +2,10 @@
 
 - to mock our http test, test http request success send
 
+### env
+
+- [env](./config.js)
+
 ### use
 
 - npm start
