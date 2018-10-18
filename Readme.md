@@ -6,6 +6,11 @@
 
 - npm start
 
+### docker run
+
+- docker push qiujundocker/test-mock
+- docker run -t -e PORT=12345 -p 12345:12345 qiujundocker/test-mock:1.0.0
+
 ### limit
 
 - only support GET、POST、DELETE、PUT
